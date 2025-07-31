@@ -1,0 +1,99 @@
+{
+  "lectures": [
+    {
+      "title": "Introduction to Web Development",
+      "description": "Learn the fundamentals of web development including HTML, CSS, and JavaScript. This comprehensive course covers everything you need to know to start building modern websites.",
+      "videoUrl": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+      "notes": [
+        "HTML provides the structure of web pages",
+        "CSS handles the styling and layout",
+        "JavaScript adds interactivity and dynamic behavior",
+        "Modern development uses responsive design principles",
+        "Always validate your HTML and CSS code"
+      ]
+    },
+    {
+      "title": "Advanced JavaScript Concepts",
+      "description": "Dive deep into advanced JavaScript topics including closures, promises, async/await, and modern ES6+ features that every developer should master.",
+      "videoUrl": "https://www.youtube.com/watch?v=hQVTIJBZook",
+      "notes": "Key concepts covered:\n• Closures and scope\n• Asynchronous programming\n• Arrow functions\n• Destructuring\n• Template literals\n• Modules and imports"
+    },
+    {
+      "title": "React Fundamentals",
+      "description": "Master React.js from the ground up. Learn about components, state management, hooks, and how to build scalable single-page applications.",
+      "videoUrl": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+      "notes": [
+        "Components are the building blocks of React",
+        "State management with useState and useEffect hooks",
+        "Props allow data flow between components",
+        "JSX syntax combines JavaScript and HTML",
+        "Virtual DOM improves performance",
+        "Always use keys in lists for efficient rendering"
+      ]
+    },
+    {
+      "title": "CSS Grid and Flexbox",
+      "description": "Master modern CSS layout techniques with Grid and Flexbox. Learn how to create responsive layouts that work across all devices and screen sizes.",
+      "videoUrl": "https://www.youtube.com/watch?v=FEnRpy9Xfes",
+      "notes": "Layout techniques comparison:\n• Flexbox: One-dimensional layouts\n• CSS Grid: Two-dimensional layouts\n• Use Flexbox for navigation bars and button groups\n• Use Grid for overall page layout\n• Both can be combined for complex designs"
+    },
+    {
+      "title": "Node.js Backend Development",
+      "description": "Build robust backend applications with Node.js and Express. Learn about REST APIs, database integration, authentication, and deployment strategies.",
+      "videoUrl": "https://www.youtube.com/watch?v=f2EqECiTBL8",
+      "notes": [
+        "Node.js enables JavaScript on the server side",
+        "Express.js simplifies web server creation",
+        "RESTful APIs follow standard HTTP methods",
+        "Middleware functions handle requests and responses",
+        "Always validate and sanitize user inputs",
+        "Use environment variables for sensitive data",
+        "Implement proper error handling and logging"
+      ]
+    },
+    {
+      "title": "Database Design Principles",
+      "description": "Understand the fundamentals of database design, normalization, and SQL. Learn how to design efficient database schemas and write optimized queries.",
+      "videoUrl": "https://www.youtube.com/watch?v=ztHopE5Wnpc",
+      "notes": "Database design principles:\n• First Normal Form (1NF): Eliminate duplicate columns\n• Second Normal Form (2NF): Remove partial dependencies\n• Third Normal Form (3NF): Remove transitive dependencies\n• Use indexes for frequently queried columns\n• Always backup your databases regularly"
+    },
+    {
+      "title": "Python Data Science Basics",
+      "description": "Introduction to data science with Python. Learn pandas, numpy, matplotlib, and basic machine learning concepts to analyze and visualize data.",
+      "videoUrl": "https://www.youtube.com/watch?v=LHBE6Q9XlzI",
+      "notes": [
+        "Pandas: Data manipulation and analysis",
+        "NumPy: Numerical computing with arrays",
+        "Matplotlib: Creating static visualizations",
+        "Seaborn: Statistical data visualization",
+        "Jupyter notebooks for interactive development",
+        "Always clean and validate your data first"
+      ]
+    },
+    {
+      "title": "Mobile App Development with React Native",
+      "description": "Build cross-platform mobile applications using React Native. Learn navigation, state management, and platform-specific features for iOS and Android.",
+      "videoUrl": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+      "notes": "React Native advantages:\n• Write once, run on both iOS and Android\n• Hot reloading for faster development\n• Access to native device features\n• Large community and ecosystem\n• Performance close to native apps"
+    },
+    {
+      "title": "DevOps and Deployment Strategies",
+      "description": "Learn modern DevOps practices including CI/CD pipelines, containerization with Docker, and cloud deployment strategies for scalable applications.",
+      "videoUrl": "https://youtu.be/j5Zsa_eOXeY",
+      "notes": [
+        "Continuous Integration (CI) automates testing",
+        "Continuous Deployment (CD) automates releases",
+        "Docker containers ensure consistency across environments",
+        "Version control with Git is essential",
+        "Monitor applications in production",
+        "Infrastructure as Code (IaC) for reproducible deployments"
+      ]
+    },
+    {
+      "title": "Cybersecurity Fundamentals",
+      "description": "Essential cybersecurity concepts every developer should know. Learn about common vulnerabilities, secure coding practices, and how to protect applications.",
+      "videoUrl": "",
+      "notes": "Security best practices:\n• Input validation and sanitization\n• Use HTTPS for all communications\n• Implement proper authentication and authorization\n• Regular security audits and updates\n• Follow OWASP Top 10 guidelines\n• Never store passwords in plain text"
+    }
+  ]
+}
